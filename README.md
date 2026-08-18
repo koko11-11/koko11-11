@@ -2,9 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=blur&color=0:0F0F0F,100:1a1a1a&height=180&section=header&text=KHOULOUD%20MADANI&fontSize=44&fontColor=E8E8E8&fontAlignY=45&desc=&animation=fadeIn" width="100%"/>
 
-<a href="https://readme-typing-svg.demolab.com/">
-  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=20&duration=3000&pause=1200&color=555555&center=true&vCenter=true&width=500&lines=App+Developer;Flutter+%26+Firebase+Specialist;Exploring+the+world+of+AI" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=20&duration=3000&pause=1200&color=555555&center=true&vCenter=true&width=500&lines=App+Developer;Flutter+%26+Firebase+Specialist;Exploring+the+world+of+AI" />
 
 <br>
 
@@ -46,18 +44,63 @@ Every project I ship is documented on my portfolio, linked below.
 
 <div align="center">
 
-## ─── Technical Stack ───
+## ─── Technical Proficiency ───
 
 </div>
 
-<table width="100%">
-<tr><th align="left" width="180">Category</th><th align="left">Tools</th></tr>
-<tr><td><strong>Mobile & UI</strong></td><td>Flutter · Dart · Android Studio · Figma</td></tr>
-<tr><td><strong>Web</strong></td><td>HTML5 · CSS3</td></tr>
-<tr><td><strong>Backend & Data</strong></td><td>Python · SQLite · PostgreSQL · Firebase</td></tr>
-<tr><td><strong>AI / Machine Learning</strong></td><td>PyTorch · NumPy · Pandas · Hugging Face · Streamlit</td></tr>
-<tr><td><strong>Design & 3D</strong></td><td>Figma · Blender</td></tr>
-</table>
+**Mobile & UI**
+
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" height="26"/> ![](https://progress-bar.dev/85?scale=100&width=160&color=1a1a1a&suffix=%20)
+<br>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" height="26"/> ![](https://progress-bar.dev/85?scale=100&width=160&color=1a1a1a&suffix=%20)
+<br>
+<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white" height="26"/> ![](https://progress-bar.dev/75?scale=100&width=160&color=1a1a1a&suffix=%20)
+<br>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" height="26"/> ![](https://progress-bar.dev/70?scale=100&width=160&color=1a1a1a&suffix=%20)
+
+<br>
+
+**Web**
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" height="26"/> ![](https://progress-bar.dev/80?scale=100&width=160&color=1a1a1a&suffix=%20)
+<br>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" height="26"/> ![](https://progress-bar.dev/80?scale=100&width=160&color=1a1a1a&suffix=%20)
+
+<br>
+
+**Backend & Data**
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="26"/> ![](https://progress-bar.dev/75?scale=100&width=160&color=1a1a1a&suffix=%20)
+<br>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" height="26"/> ![](https://progress-bar.dev/75?scale=100&width=160&color=1a1a1a&suffix=%20)
+<br>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" height="26"/> ![](https://progress-bar.dev/60?scale=100&width=160&color=1a1a1a&suffix=%20)
+<br>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" height="26"/> ![](https://progress-bar.dev/65?scale=100&width=160&color=1a1a1a&suffix=%20)
+
+<br>
+
+**AI / Machine Learning**
+
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" height="26"/> ![](https://progress-bar.dev/40?scale=100&width=160&color=1a1a1a&suffix=%20)
+<br>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" height="26"/> ![](https://progress-bar.dev/45?scale=100&width=160&color=1a1a1a&suffix=%20)
+<br>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" height="26"/> ![](https://progress-bar.dev/45?scale=100&width=160&color=1a1a1a&suffix=%20)
+<br>
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" height="26"/> ![](https://progress-bar.dev/35?scale=100&width=160&color=1a1a1a&suffix=%20)
+<br>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" height="26"/> ![](https://progress-bar.dev/50?scale=100&width=160&color=1a1a1a&suffix=%20)
+
+<br>
+
+**Design & 3D**
+
+<img src="https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white" height="26"/> ![](https://progress-bar.dev/55?scale=100&width=160&color=1a1a1a&suffix=%20)
+
+<br>
+
+<sub><em>Note: percentages are self-estimated indicators of comfort level, not a formal certification.</em></sub>
 
 <br>
 
